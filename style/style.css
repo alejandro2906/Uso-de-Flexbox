@@ -15,3 +15,33 @@ nav a {
   color: black;
   font-size: 19px;
 }
+.Inicio {
+  text-align: center;
+}
+div {
+  margin: 35px;
+  width: 350px;
+  border-radius: 15px;
+  padding: 18px;
+  overflow: hidden;
+  background-color: pink;
+  box-shadow: 2px 2px 10px white;
+}
+.TarjetaPrincipal {
+  display: flex;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+  gap: 20px;
+}
+
+.Tarjeta {
+  margin: 35px;
+  width: 350px;
+  border-radius: 15px;
+  padding: 18px;
+  overflow: hidden;
+  background-color: pink;
+  box-shadow: 2px 2px 10px white;
+}
